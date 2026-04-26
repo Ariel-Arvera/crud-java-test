@@ -1,6 +1,7 @@
 # CRUD Test
 
 Esto es un proyecto medio boludo pero funcional, un API REST basica hecho con Spring Boot.
+Hecho a mano con documentacion de sitios como stackoverflow y otros, la IA solo se uso para corregir errores especificos.
 
 ## Que hace
 
